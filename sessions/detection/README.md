@@ -41,9 +41,3 @@ It has been adapted for educational purposes. You can find below several IPython
   	```
 	
 - Put this folder under the ```data``` folder or create a symbolic link there.
-
-## Notebooks
-
-- [Object Detection I](ssd_keras/detection_1.ipynb)
-- [Object Detection II](ssd_keras/detection_2.ipynb)
-- [Object Tracking in videos](ssd_keras/video_detection.ipynb)

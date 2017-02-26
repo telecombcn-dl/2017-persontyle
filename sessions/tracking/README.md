@@ -48,4 +48,3 @@ To run the tracker with the provided detections:
 	wget https://motchallenge.net/data/2DMOT2015.zip
 	unzip 2DMOT2015.zip
 	```
-- Run the provided IPython Notebook for a demo
