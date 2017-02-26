@@ -23,22 +23,22 @@ Run ``` python setup.py``` to collect datasets and models before we begin, to av
 ## Sessions
 
 - AWS Setup
-- [Logistic Regression]()
-- [Multiclass Classification]()
-- [Deep models](sessions/deep.ipynb)
-- [Convolutional Neural Networks](sessions/convnets.ipynb)
-- [Visualization](sessions/visualization.ipynb)
-- [GAN]()
-- [Deep Dream](sessions/dream.ipynb)
-- [Neural Style](sessions/style.ipynb)
-- [Object Detection I](sessions/detection/ssd_keras/detection_1.ipynb)
-- [Object Detection II](sessions/detection/ssd_keras/detection_2.ipynb)
-- [Detection for Video](sessions/detection/ssd_keras/video_detection.ipynb)
-- [Object Tracking II](sessions/tracking/tracking.ipynb)
-- [LSTM char generation]()
-- [Embeddings]()
-- [20news]()
-- [Question Answering]()
+- [Logistic Regression](sessions/2-3_classify.ipynb)
+- [Multiclass Classification](sessions/2-3_classify.ipynb)
+- [Deep models](sessions/4_deep.ipynb)
+- [Convolutional Neural Networks](sessions/5_convnets.ipynb)
+- [Visualization](sessions/6_visualization.ipynb)
+- [GAN](sessions/7_gan.ipynb)
+- [Deep Dream](sessions/8_dream.ipynb)
+- [Neural Style](sessions/8_style.ipynb)
+- [Object Detection I](sessions/detection/ssd_keras/testing.ipynb)
+- [Object Detection II](sessions/detection/ssd_keras/testing_video.ipynb)
+- [Object Tracking I](sessions/tracking/tracking_siamese.ipynb)
+- [Object Tracking II](sessions/tracking/tracking_kalman.ipynb)
+- [LSTM char generation](sessions/13_lstm.ipynb)
+- [Embeddings](sessions/14_embeddings.ipynb)
+- [20news](sessions/15_news20.ipynb)
+- [Question Answering](sessions/16_QA.ipynb)
 
 ## Usage
 
