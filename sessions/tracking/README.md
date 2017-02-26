@@ -48,8 +48,4 @@ To run the tracker with the provided detections:
 	wget https://motchallenge.net/data/2DMOT2015.zip
 	unzip 2DMOT2015.zip
 	```
-- Create a symbolic link to the dataset folder:
-  ```
-  $ ln -s /path/to/MOT2015_challenge/data/2DMOT2015 mot_benchmark
-  ```
 - Run the provided IPython Notebook for a demo
