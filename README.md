@@ -1,4 +1,5 @@
 # Persontyle Workshop for Applied Deep Learning
+## by [Amaia Salvador](https://imatge.upc.edu/web/people/amaia-salvador) and [Santiago Pascual](https://github.com/santi-pdp) (Universitat Politecnica de Catalunya, 2017)
 
 This repository contains several ipython notebooks with machine learning tutorials using python, keras and tensorflow.
 
