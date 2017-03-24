@@ -17,6 +17,8 @@ This repository contains several ipython notebooks with machine learning tutoria
 - Follow [these instructions](https://github.com/tensorflow/tensorflow/blob/r0.10/tensorflow/g3doc/get_started/os_setup.md#pip-installation) to install tensorflow 0.10 with pip.
 - Install other dependencies ```pip install -r requirements.txt```.
 
+To run this code on GPU, you will need cuda and cudnn installed in your machine. Alternatively, you can follow [these](https://blog.keras.io/running-jupyter-notebooks-on-gpu-on-aws-a-starter-guide.html) instructions to setup an AWS instance with jupyter notebook.
+
 ## Setup
 
 Run ``` python setup.py``` to collect datasets and models before we begin, to avoid problems if notebooks freeze at some point.
